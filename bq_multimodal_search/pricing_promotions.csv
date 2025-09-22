@@ -1,0 +1,18 @@
+product_name,category,listed_price,promo_text,promo_price,discrepancy_flag
+Estrella Stjärnor,Snacks,15.0,,,NONE
+Honung Fast 700g,Honey,69.9,,,NONE
+Lindt Excellence 100g,Chocolate,55.95,45 SEK each,45.0,PROMO_NOT_OK
+Finn Crisp Rye Snacks 150g,Snacks,27.95,2 for 45 SEK,22.5,PROMO_OK
+Gurka Svensk,Vegetables,16.95,2 for 30 SEK,15.0,PROMO_OK
+Flytande Honung,Honey,39.95,35 SEK each,35.0,PROMO_OK
+Santa Maria Kryddor,Spices,24.95,20 SEK each,20.0,PROMO_OK
+Ekologiska Dadlar,Dried Fruit,29.95,25 SEK each,25.0,PROMO_OK
+Pingvin Stång,Candy,6.5,3 for 12 SEK,4.0,PROMO_OK
+Pingvin Stång,Candy,5.0,3 for 12 SEK,4.0,PROMO_OK
+Druvor gröna,Fruits,59.95,25 SEK,25.0,PRICE_DISCREP
+Mini Jam Jar,Condiments,25.5,20 SEK each,20.0,DISCOUNT_OK
+Jasminris 1kg,Grains,39.95,29.90 SEK,29.9,PROMO_OK
+Havregryn 750g,Grains,21.5,15 SEK each,15.0,PROMO_OK
+Svensk Gurka,Vegetables,16.95,2 for 30 SEK,15.0,NONE
+Gurka (Chiller),Vegetables,29.95,2 for 30 SEK,15.0,PRICE_DISCREP
+Proteinbar,Snacks,27.95,2 for 35 SEK,17.5,PROMO_OK
